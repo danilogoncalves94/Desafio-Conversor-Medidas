@@ -43,6 +43,7 @@ button {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 2px 2px 5px black;
     font-weight: bolder;
+    text-align: center;
 }
 
 .paragrafos {
